@@ -1,0 +1,7 @@
+ToDos:
+
+1. Remove from line 11 of index.html:
+    <style>
+      .attribution { font-size: 11px; text-align: center; }
+      .attribution a { color: hsl(228, 45%, 44%); }
+    </style>
